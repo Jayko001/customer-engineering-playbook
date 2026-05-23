@@ -4,13 +4,11 @@
 1. Commit to being personable in your communication
 2. #example If the customer has written to us before, start the email with "Hi again!"
 
-
 # Thank you for your feedback
 
 Never use this. Sounds ignorant. 
  - #example use "Thanks for telling me how you feel about this!" instead of "Thank you for your feedback"
-
-#example :
+ 
 ## Responding to feature requests
 - Great idea! Thanks for taking the time to send this one in
 - Thanks for sharing your thoughts on this!
@@ -44,6 +42,19 @@ Never use this. Sounds ignorant.
 5. Make sure the public replies, when taken out-of-context seem compassionate, helpful and friendly.
 
 # Surprise & Delight & Reward & Celebrate
+1. Crediting people's account for a month of service. Sending them a quick form email to let them know and thank them for being a customer
+
+## What can you do to show your customers you care
+1. Send handwritten notes
+2. Send personal notes or emails on customers' anniversaries 
+3. Offer % discount for customers after they pass the one year mark
+4. Follow top customers on social media
+5. Posts contests on blog and offer account credits to anyone who participates
+6. Refund the last billing account when a customer has had a frustrating experience
+7. Hide discounts or freebies in social media
+
+> Customers don't expect you to be perfect. They DO expect you to fix things when they go wrong
+
 
 
 
