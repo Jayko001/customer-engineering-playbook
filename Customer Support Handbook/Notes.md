@@ -55,6 +55,43 @@ Never use this. Sounds ignorant.
 
 > Customers don't expect you to be perfect. They DO expect you to fix things when they go wrong
 
+# Measuring Real Happiness
+Email ratings are only a small portion of what we should consider who is happy and why. Use customers use in their emails to guage their emotion using the product.
+
+## Metrics to track
+1. speed of response
+2. number of support requests vs number of active customers.
+
+# Finding your support voice
+#example 
+## Opening statements
+- Hi x! Thank you for getting in touch!
+- Hi x! I'd love to help you out with this.
+- Hey x, Sorry to hear you're having this issue
+
+## Closing statements
+- Thanks again for contacting support
+- Let us know if you need anything else
+- Hope that solves all your problems. We're always here to help!
+
+## Response for troubleshooting an issue
+- Sorry to hear you're having this issue! Let me help you get this sorted out.
+- Sorry about that trouble. We can definitely help you with this.
+- I'm sorry you rain into that issue! If i can get some more info from you, we can get you a quick fix
+
+## Asking more info
+- We'll be happy to help troubleshoot it for you, but first we'll need some more details.
+- I think i know what the issue may be, but getting some more information from you will help me know it for sure.
+- It sounds look you're hitting a bug we are aware of, so I need to gather some more info from you to be sure and get that fixed for you
+
+## Response for linking to docs
+- Here is more information about that from our docs
+- You can find more help for issues like this in our online knowledge base
+- We've written a detailed overview of this in our help section
+
+# Apologizing
+
+
 
 
 
